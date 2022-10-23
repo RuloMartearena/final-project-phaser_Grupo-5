@@ -1,8 +1,8 @@
-import '../styles/desarrolladores.css';
+// import '../styles/desarrolladores.css';
 
 export default function Desarrolladores() {
     return (
-<section className='section__desarrolladores-conteiner'>
+        <section className='section__desarrolladores-conteiner'>
             <h2 className='h2title-game'>Ahorcadito</h2>
             <h2 className="h2__desarrolladores">Desarrolladores</h2>
             <h3 className="h3__numeroGrupo">GRUPO 5</h3>
@@ -47,6 +47,6 @@ export default function Desarrolladores() {
             <div className='info-conteiner'>
                 <a href="http://localhost:3000/" rel="noreferrer"><button className='buttonGIT'>HOME</button></a>
             </div>
-            </section>
+        </section>
     )
 }

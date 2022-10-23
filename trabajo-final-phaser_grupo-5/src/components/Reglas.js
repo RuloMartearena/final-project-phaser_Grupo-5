@@ -1,9 +1,9 @@
-//import '../styles/reglas.css';
+import '../styles/reglas.css';
 
 export default function Reglas() {
     return (
         <section className="section__reglas-conteiner">
-           
+
             <div className="div__rules-conteiner">
                 <h2 className='h2__title-rules'>REGLAS</h2>
                 <div className='div__rules'>
