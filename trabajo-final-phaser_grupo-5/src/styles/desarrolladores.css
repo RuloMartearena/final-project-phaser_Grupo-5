@@ -38,24 +38,45 @@ body {
   text-align: center;
 }
 
-.div__img-conteiner {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  width: 100vw;
-  height: auto;
-}
-
-.img-inicio {
-  width: 500px;
-  height: auto;
-  border: 3px brown solid;
-}
-
-.h2__instruccion {
+.h2__desarrolladores {
   text-align: center;
 }
+
+.h3__numeroGrupo {
+  margin: 0 15px;
+}
+
+/* Tarjetas de presentacion */
+.div__desarrolladores-conteiner {
+  display: flex;
+}
+.div__desarrolladores-img img {
+  width: 200px;
+  height: 200px;
+  margin: 15px;
+  border: 3px solid var(--color-title);
+}
+.div__desarrolladores-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.p__desarrolladores {
+  font-size: 20px;
+}
+.div__button-desarrolladores button {
+  color: var(--color-title);
+  background-color: var(--var-colorSix);
+  font-size: 20px;
+  cursor: pointer;
+  border: 3px solid var(--var-colorOne);
+}
+.div__button-desarrolladores button:hover {
+  background-color: black;
+  color: white;
+  border: 3px solid black;
+}
+/* /Tarjetas de presentacion */
 
 .div__button-conteiner {
   display: flex;
