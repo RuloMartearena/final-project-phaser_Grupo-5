@@ -38,23 +38,18 @@ body {
   text-align: center;
 }
 
-.div__img-conteiner {
+.h2__title-recordatorios {
+  text-align: center;
+}
+
+.div__recordatorio-conteiner {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 100vw;
-  height: auto;
 }
-
-.img-inicio {
-  width: 500px;
-  height: auto;
-  border: 3px brown solid;
-}
-
-.h2__instruccion {
-  text-align: center;
+.div__recordatorio-conteiner p {
+  font-size: 30px;
 }
 
 .div__button-conteiner {
