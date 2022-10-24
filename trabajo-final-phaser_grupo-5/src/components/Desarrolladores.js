@@ -102,7 +102,7 @@ export default function Desarrolladores() {
                     <p className="p__desarrolladores">
                         <b>Vera Esteban Sergio</b><br />
                         Le líder 100% real hasta la muerte del grupo, sabe mucho sobre react<br />
-                        El verdadero líder del grupo
+                        El de las donas del grupo
                     </p>
                     <div className="div__button-desarrolladores">
                         <a className='a__return' href="https://github.com/Akenajy1209" target="_blank" rel="noreferrer">
