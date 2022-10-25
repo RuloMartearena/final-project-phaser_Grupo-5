@@ -1,0 +1,51 @@
+[
+
+    {
+        "srcImg":"../img/photo_oso.png",
+        "name":"Beguier Ignacio Martin",
+        "description":"Le decimos Internet Exporer por que tarda en captar las indirectas",
+        "group":"El alivio comico del grupo",
+        "gitHub":"https://github.com/TitiBeguier"
+    }, 
+
+    {
+        "srcImg":"../img/photo_chris.png",
+        "name":"Gianechini Christian Emanuel",
+        "description":"El mas puntual de todos, parece que vive en discord",
+        "group":"El emo del grupo",
+        "gitHub":"https://github.com/Bastyon"
+    }, 
+
+    {
+        "srcImg":"../img/photo_abuelo.png",
+        "name":"Gutiérrez Christian Andrés",
+        "description":"El mas grande del grupo, uno pernsaría que tambien el que tiene mas experiencia",
+        "group":"El abuelo del grupo",
+        "gitHub":"https://github.com/Bleidersito"
+    }, 
+
+    {
+        "srcImg":"../img/photo_rulo.png",
+        "name":"Martearena Matías",
+        "description":"El supuesto líder del grupo y el que más sabe sobre css",
+        "group":"El ruludo del grupo",
+        "gitHub":"https://github.com/RuloMartearena"
+    }, 
+
+    {
+        "srcImg":"../img/photo_axel.png",
+        "name":"Robles Axel Iván Lautaro",
+        "description":"Le dicen roblox no se por que, el mas copado del grupo",
+        "group":"El hincha de river del grupo",
+        "gitHub":"https://github.com/axelrobles17"
+    }, 
+
+    {
+        "srcImg":"../img/photo_esteban.png",
+        "name":"Vera Esteban Sergio",
+        "description":"Le líder 100% real hasta la muerte del grupo, sabe mucho sobre react",
+        "group":"El de las donas del grupo",
+        "gitHub":"https://github.com/Akenajy1209"
+    }
+
+]

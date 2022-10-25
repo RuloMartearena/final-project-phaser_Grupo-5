@@ -25,7 +25,7 @@ export default function Desarrolladores() {
                         </a>
                     </div>
                 </div>
-            </div>
+            </div>      
             <div className="div__desarrolladores-conteiner">
                 <div className="div__desarrolladores-img">
                     <img className="img__photo" src="../img/photo_chris.png" alt="Christian Gianiechini"></img>
@@ -42,7 +42,7 @@ export default function Desarrolladores() {
                         </a>
                     </div>
                 </div>
-            </div>
+            </div>       
             <div className="div__desarrolladores-conteiner">
                 <div className="div__desarrolladores-img">
                     <img className="img__photo" src="../img/photo_abuelo.png" alt="Christian Gutierrez"></img>
