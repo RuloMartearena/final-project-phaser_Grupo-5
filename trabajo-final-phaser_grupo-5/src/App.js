@@ -11,7 +11,7 @@ import Recordatorios from './components/Recordatorio.js';
 import recordatorios from './json/recordatorios.json';
 
 import Desarrolladores from './components/Desarrolladores.js';
-// import desarrolladores from './json/desarrolladores.json';
+import desarrolladores from './json/desarrolladores.json';
 
 
 export default function App() {
@@ -35,9 +35,15 @@ export default function App() {
                 recordatorioDos={reco.recordatorioDos}
                 recordatorioTres={reco.recordatorioTres}
               ></Recordatorios>)} />
-
-          <Route path="/Desarrolladores" element={<Desarrolladores />} />
-
+          <Route path="/Desarrolladores" element=
+            {desarrolladores.map(dev =>
+              <Desarrolladores
+                srcImg={dev.srcImg}
+                name={dev.name}
+                description={dev.description}
+                group={dev.group}
+                gitHub={dev.gitHub}
+              ></Desarrolladores>)} />
         </Routes>
       </BrowserRouter>
     </>
