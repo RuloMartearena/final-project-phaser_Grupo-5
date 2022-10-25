@@ -1,6 +1,6 @@
 import '../styles/recordatorio.css';
 
-export default function Recordatorio() {
+export default function Recordatorio(props) {
     return (
         <section>
             <div class="div__title-game-conteiner">
@@ -10,9 +10,9 @@ export default function Recordatorio() {
             <div className="div__recordatorio-conteiner">
                 <h2 className="h2__title-recordatorios">RECORDATORIOS</h2>
                 <div>
-                    <p>1. El personaje tiene que llegar a la cima</p>
-                    <p>2. No debes caer</p>
-                    <p>3. Supera todas las plataformas para obtener el premio</p>
+                    <p>{props.recordatorioUno}</p>
+                    <p>{props.recordatorioDos}</p>
+                    <p>{props.recordatorioTres}</p>
                 </div>
             </div>
             <div className="div__button-conteiner">
