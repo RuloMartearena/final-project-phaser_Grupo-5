@@ -70,6 +70,7 @@ body {
   font-size: 20px;
   cursor: pointer;
   border: 3px solid var(--var-colorOne);
+  font-family: var(--body-font);
 }
 .div__button-desarrolladores button:hover {
   background-color: black;
@@ -87,15 +88,16 @@ body {
   margin: 20px 30px;
 }
 .div__button-conteiner a button {
-  color: var(--color-title);
-  background-color: var(--var-colorSix);
-  font-size: 30px;
+  color: white;
+  background-color: black;
+  font-size: 20px;
   cursor: pointer;
   margin: 0 15px 30px 15px;
-  border: 4px solid var(--var-colorOne);
+  border: 4px solid white;
+  font-family: var(--body-font);
 }
 .div__button-conteiner a button:hover {
-  background-color: black;
-  color: white;
-  border: 4px solid black;
+  background-color: white;
+  color: black;
+  border: 4px solid gray;
 }
