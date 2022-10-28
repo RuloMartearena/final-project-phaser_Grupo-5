@@ -1,9 +1,15 @@
 [
 
     {
-        "recordatorioUno":"1. El personaje tiene que llegar a la cima",
-        "recordatorioDos":"2. No debes caer",
-        "recordatorioTres":"3. Supera todas las plataformas para obtener el premio"
+        "recordatorio":"1. El personaje tiene que llegar a la cima"
+    },
+
+    {
+        "recordatorio":"2. No debes caer"
+    },
+
+    {
+        "recordatorio":"3. Supera todas las plataformas para obtener el premio"
     }
 
 ]

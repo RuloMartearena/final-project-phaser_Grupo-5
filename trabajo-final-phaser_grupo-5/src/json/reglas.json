@@ -1,10 +1,19 @@
 [
 
     {
-        "reglaUno":"1. De salto en salto superate en lo alto",
-        "reglaDos":"2. Intenta no caer para no desvanecer",
-        "reglaTres":"3. Apresurate en llegar o tik tok y para atras",
-        "reglaCuatro":"4. Escala hasta la cima demostrando quien domina"
+        "regla":"1. De salto en salto superate en lo alto"
+    },
+
+    {
+        "regla":"2. Intenta no caer para no desvanecer"
+    },
+
+    {
+        "regla":"3. Apresurate en llegar o tik tok y para atras"
+    },
+
+    {
+        "regla":"4. Escala hasta la cima demostrando quien domina"
     }
 
 ]

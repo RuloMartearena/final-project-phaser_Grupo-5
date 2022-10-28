@@ -48,8 +48,17 @@ body {
   align-items: center;
   justify-content: center;
 }
-.div__recordatorio-conteiner p {
-  font-size: 30px;
+
+.div__recordatorio {
+  width: 100%;
+  padding: 0 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.div__recordatorio p {
+  font-size: 25px;
 }
 
 .div__button-conteiner {
